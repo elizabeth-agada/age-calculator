@@ -1,0 +1,22 @@
+{
+  "name": "age-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizabeth-agada/age-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizabeth-agada/age-calculator/issues"
+  },
+  "homepage": "https://github.com/elizabeth-agada/age-calculator#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
